@@ -63,7 +63,7 @@
     "remote": "github",
     "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "revision": "android-6.0"
+    "revision": "cm-13.0"
   },
   {
     "remote": "omnirom",
