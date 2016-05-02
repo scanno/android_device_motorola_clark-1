@@ -55,7 +55,7 @@
   },
   {
     "remote": "github",
-    "repository": "CyanogenMod/kernel_motorola_msm8992",
+    "repository": "CyanogenMod/android_kernel_motorola_msm8992",
     "target_path": "kernel/motorola/msm8992",
     "revision": "cm-13.0"
   },
